@@ -9,7 +9,7 @@ struct Nodo {
 void agregarNodo(Nodo *&, int );
 void sacarNodo(Nodo *&, int &);
 
-int main(){
+int maidn(){
     Nodo* pila = NULL;
     int dato;
 
